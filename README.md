@@ -6,7 +6,7 @@
 ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
 
 ## Clone the repo
-```git clone https://github.com/meerkatone/rust_tetris.git```
+```git clone https://github.com/meerkatone/rust-tetris.git```
 
 ## Build
 ```cd rust-tetris```\
