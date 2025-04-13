@@ -14,7 +14,7 @@
 
 ## Game Controls
 
-Up arrow (↑): &uarr;
-Down arrow (↓): &darr;
-Left arrow (←): &larr;
+Up arrow (↑): &uarr;\
+Down arrow (↓): &darr;\
+Left arrow (←): &larr;\
 Right arrow (→): &rarr;
