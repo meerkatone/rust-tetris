@@ -11,3 +11,10 @@
 ## Build
 ```cd rust_tetris```\
 ```cargo run```
+
+## Game Controls
+
+Up arrow (↑): &uarr;
+Down arrow (↓): &darr;
+Left arrow (←): &larr;
+Right arrow (→): &rarr;
