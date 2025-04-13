@@ -9,12 +9,11 @@
 ```git clone https://github.com/meerkatone/rust_tetris.git```
 
 ## Build
-```cd rust_tetris```\
+```cd rust-tetris```\
 ```cargo run```
 
 ## Game Controls
-
-Up arrow (↑): &uarr;\
-Down arrow (↓): &darr;\
-Left arrow (←): &larr;\
-Right arrow (→): &rarr;
+Up arrow: &uarr;\
+Down arrow: &darr;\
+Left arrow: &larr;\
+Right arrow: &rarr;
