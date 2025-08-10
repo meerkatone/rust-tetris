@@ -1,4 +1,4 @@
-# Tetris-written-in-Rust
+# Tetris written in Rust
 The classic Tetris - written in Rust, with pure vibe coding in Claude 3.7
 
 ## Dependencies
